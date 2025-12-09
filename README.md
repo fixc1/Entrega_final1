@@ -1,6 +1,6 @@
 # E-Commerce Deportivo
 
-Proyecto final del curso de React JS. Es una tienda online de productos deportivos que permite filtrar por categorías, ver detalles de productos y gestionar un carrito de compras.
+Proyecto final del curso de React Js con talento tech. Es una tienda online de productos deportivos que permite filtrar por categorías, ver detalles de productos y gestionar un carrito de compras.
 
 ## 🛠 Tecnologías usadas
 * **React + Vite**

@@ -6,6 +6,7 @@ import CartPage from './pages/CartPage';
 import LoginPage from './pages/LoginPage';
 import AdminDashboard from './pages/AdminDashboard';
 import './App.css';
+import './index.css';
 
 import Hero from './components/Hero'; 
 
